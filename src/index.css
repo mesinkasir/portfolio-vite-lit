@@ -1,0 +1,37 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(230, 215, 215, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  width: 60vw;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+footer {
+  text-align: center;
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #f1ebee;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    width: 80vw;
+    margin: 0 auto;
+    padding: 0 auto;
+  }
+}

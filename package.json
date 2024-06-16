@@ -1,0 +1,34 @@
+{
+  "name": "hockeycomp-docs",
+  "private": true,
+  "version": "1.2.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mesinkasir/.git"
+  },
+  "author": {
+    "name": "Creativitas",
+    "email": "creativebydre@gmail.com",
+    "url": "https://creativitas.dev/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/mesinkasir/"
+  },
+  "dependencies": {
+    "lit": "^3.1.4"
+  },
+  "devDependencies": {
+    "vite": "^5.2.13"
+  }
+}
