@@ -39,6 +39,8 @@ Google Page Speed Target Desktop
 
 ---
 
+Run Demo for real project : [https://www.hockeycomputindo.com/dokumentasi/](https://www.hockeycomputindo.com/dokumentasi/)
+
 How to Install ?? Read Documentation
 
 [https://www.hockeycomputindo.com/themes/vite/lit-vite-landingpage/](https://www.hockeycomputindo.com/themes/vite/lit-vite-landingpage)
