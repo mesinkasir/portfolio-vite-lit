@@ -4,7 +4,7 @@ Built with Vite Js + Lit Element
 
 A project develop by [creativitas.dev](https://creativitas.dev)
 
-Need Help for your web project - [Hire Developer](https://fiverr.com/creativitas)
+Need Help for your web project - [Hire Developer]([https://fiverr.com/creativitas](https://www.hockeycomputindo.com/en/jamstack/))
 
 Run Demo for real project : [https://www.hockeycomputindo.com/dokumentasi/](https://www.hockeycomputindo.com/dokumentasi/)
 
